@@ -1,0 +1,37 @@
+[
+{
+"id":1,
+"name":"Kamal",
+"designation":"Mobile Application developer",
+"latitude":11.0140866,
+"longitude":76.9648178
+},
+{
+"id":2,
+"name":"Ganaprakash",
+"designation":"Mobile Application developer",
+"latitude":10.9933187,
+"longitude":76.9588785
+},
+{
+"id":3,
+"name":"JayaKumar",
+"designation":"Managing Director",
+"latitude":11.0586765,
+"longitude":76.9670081
+},
+{
+"id":4,
+"name":"Ganesh",
+"designation":"Humen Resource",
+"latitude":11.025322,
+"longitude":77.0095313
+},
+{
+"id":5,
+"name":"Mohan",
+"designation":"Admin",
+"latitude":11.0544658,
+"longitude":76.992159
+}
+]
